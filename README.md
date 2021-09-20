@@ -1,5 +1,5 @@
 ## Initial Users
-The database creation logic above will create the following users:
+The database creation logic above will create the following users: Run InitializeGlobomanticsDb.sql
 * rr@acme.com / `l00neyTunes!`
 * wile@acme.com / `l00neyTunes!`
 * kim@mars.com / `to1nfinity!`
