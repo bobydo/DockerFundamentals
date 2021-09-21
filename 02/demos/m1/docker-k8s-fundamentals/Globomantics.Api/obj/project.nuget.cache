@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IJJ/7FZBjXb9hgutQrWtbJpyMlRvVCHGq3y0tc5baWQF2++tNQ94u7TyeCKr7ffg2gSjK3Zybp4Ow3JyQhfsIA==",
+  "dgSpecHash": "F8679Gt4SI6o+UD0unEFicQRK5wmpnnnpRDC4TA9k+J1kJ3cuJ5BtI/gPj4FpvZhXz663Z6jP10cxlJ1Jd07WA==",
   "success": true,
   "projectFilePath": "D:\\DockerFundamentals\\02\\demos\\m1\\docker-k8s-fundamentals\\Globomantics.Api\\Globomantics.Api.csproj",
   "expectedPackageFiles": [
@@ -66,7 +66,7 @@
     "C:\\Users\\Jerry Bao\\.nuget\\packages\\serilog.sinks.seq\\4.0.0\\serilog.sinks.seq.4.0.0.nupkg.sha512",
     "C:\\Users\\Jerry Bao\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\Jerry Bao\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\5.6.3\\swashbuckle.aspnetcore.annotations.5.6.3.nupkg.sha512",
-    "C:\\Users\\Jerry Bao\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Jerry Bao\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.1\\swashbuckle.aspnetcore.swagger.6.2.1.nupkg.sha512",
     "C:\\Users\\Jerry Bao\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
     "C:\\Users\\Jerry Bao\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
     "C:\\Users\\Jerry Bao\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
