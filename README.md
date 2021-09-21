@@ -1,4 +1,14 @@
 ## Initial Users
+
+## Set up databasae
+* database first to create Globomantics database
+InitializeGlobomanticsDb.sql
+* code first to create GlobomanticsIdSrv database
+DbContext for the IdentityServer operational data.
+update-database -migration 20201103152410_InitialMigration -context ConfigurationDbContext
+ DbContext for the IdentityServer configuration data.
+update-database -migration 20201103152457_InitialMigration -context PersistedGrantDbContext
+
 The database creation logic above will create the following users: Run InitializeGlobomanticsDb.sql
 * rr@acme.com / `l00neyTunes!`
 * wile@acme.com / `l00neyTunes!`
