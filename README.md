@@ -45,6 +45,14 @@ The database creation logic above will create the following users: Run Initializ
 <br> makes seq works for local logging
 ![image](https://user-images.githubusercontent.com/64368109/134368592-c8dd0b18-0c0b-463c-8655-6872afe22705.png)
 
+## Add 
+<br>Integrated Security=true; would not work; change to DB memory first to skip permission
+```
+    environment:
+      - ASPNETCORE_URLS=http://*:5000
+    ports:
+      - "5000:5000"
+```
 
 ## SSL With Docker Compose and nginx as Reverse Proxy
 https://gist.github.com/dahlsailrunner/679e6dec5fd769f30bce90447ae80081
