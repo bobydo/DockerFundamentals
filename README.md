@@ -31,6 +31,7 @@ The database creation logic above will create the following users: Run Initializ
 
 ## Download Seq Log
 * https://hub.docker.com/r/datalust/seq
+<br>docker run --name seq -d --restart unless-stopped -e ACCEPT_EULA=Y -p 5341:80 datalust/seq:latest
 
 
 ## SSL With Docker Compose and nginx as Reverse Proxy
