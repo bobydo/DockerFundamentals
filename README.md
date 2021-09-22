@@ -42,6 +42,9 @@ The database creation logic above will create the following users: Run Initializ
 ![image](https://user-images.githubusercontent.com/64368109/134365896-0b9afb58-8562-4d81-bf85-b0e815c41d58.png)
 ![image](https://user-images.githubusercontent.com/64368109/134366251-d55da77d-9854-41fe-bab7-d580a224cc34.png)
 * See https://aka.ms/containerfastmode to understand how Visual Studio uses this Dockerfile to build your images for faster debugging.
+<br> makes seq works for local logging
+![image](https://user-images.githubusercontent.com/64368109/134368592-c8dd0b18-0c0b-463c-8655-6872afe22705.png)
+
 
 ## SSL With Docker Compose and nginx as Reverse Proxy
 https://gist.github.com/dahlsailrunner/679e6dec5fd769f30bce90447ae80081
