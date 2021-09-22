@@ -29,6 +29,9 @@ The database creation logic above will create the following users: Run Initializ
 * Run it and check
 ![image](https://user-images.githubusercontent.com/64368109/134342917-7237e15a-5bcd-407d-8649-d75bcc7a80bc.png)
 
+## Download Seq Log
+* https://hub.docker.com/r/datalust/seq
+
 
 ## SSL With Docker Compose and nginx as Reverse Proxy
 https://gist.github.com/dahlsailrunner/679e6dec5fd769f30bce90447ae80081
