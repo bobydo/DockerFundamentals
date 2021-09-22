@@ -40,6 +40,7 @@ The database creation logic above will create the following users: Run Initializ
 ## Expalin docker images
 ![image](https://user-images.githubusercontent.com/64368109/134365684-2b4471d3-1176-46cb-8fe0-48c941e94ef9.png)
 ![image](https://user-images.githubusercontent.com/64368109/134365896-0b9afb58-8562-4d81-bf85-b0e815c41d58.png)
+![image](https://user-images.githubusercontent.com/64368109/134366251-d55da77d-9854-41fe-bab7-d580a224cc34.png)
 
 
 ## SSL With Docker Compose and nginx as Reverse Proxy
