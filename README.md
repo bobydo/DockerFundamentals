@@ -57,6 +57,9 @@ The database creation logic above will create the following users: Run Initializ
 ## SSL With Docker Compose and nginx as Reverse Proxy
 https://gist.github.com/dahlsailrunner/679e6dec5fd769f30bce90447ae80081
 
+![image](https://user-images.githubusercontent.com/64368109/134390023-f7b39210-3aa5-4daa-9ee7-089418295df4.png)
+
+
 ## Local Kubernetes Setup
 Just use the Docker Desktop Kubernetes instance (enable it in Settings within Docker Desktop).
 
