@@ -33,6 +33,11 @@ The database creation logic above will create the following users: Run Initializ
 * https://hub.docker.com/r/datalust/seq
 <br>docker run --name seq -d --restart unless-stopped -e ACCEPT_EULA=Y -p 5341:80 datalust/seq:latest
 
+## Add docker to asp.net project
+![image](https://user-images.githubusercontent.com/64368109/134362340-13e70c62-85ed-4ca6-a066-6e9fdbd14ce6.png)
+![image](https://user-images.githubusercontent.com/64368109/134362376-46542d69-d78b-449e-abc1-c1159a56e465.png)
+
+
 
 ## SSL With Docker Compose and nginx as Reverse Proxy
 https://gist.github.com/dahlsailrunner/679e6dec5fd769f30bce90447ae80081
