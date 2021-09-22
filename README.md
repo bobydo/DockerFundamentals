@@ -24,6 +24,11 @@ The database creation logic above will create the following users: Run Initializ
 * [Install and Configure Windows Terminal](https://gist.github.com/dahlsailrunner/ec99e195b2a4903748a74df64a1f1a94)
 * [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 
+## Download smtp4deve and run it in dock
+* Download it from windows terminal > docker pull ruwood/smtp4dev
+* Run it and check
+![image](https://user-images.githubusercontent.com/64368109/134342917-7237e15a-5bcd-407d-8649-d75bcc7a80bc.png)
+
 
 ## SSL With Docker Compose and nginx as Reverse Proxy
 https://gist.github.com/dahlsailrunner/679e6dec5fd769f30bce90447ae80081
