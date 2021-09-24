@@ -62,6 +62,8 @@ https://gist.github.com/dahlsailrunner/679e6dec5fd769f30bce90447ae80081
 
 ![image](https://user-images.githubusercontent.com/64368109/134608422-1ce37099-95aa-4f8b-8446-8122eeee9ae5.png)
 
+## chapter 6
+![image](https://user-images.githubusercontent.com/64368109/134609437-80192d27-3a6e-41b3-92c2-6106107ab4c4.png)
 
 ## Local Kubernetes Setup
 Just use the Docker Desktop Kubernetes instance (enable it in Settings within Docker Desktop).
