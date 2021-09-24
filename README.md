@@ -60,6 +60,7 @@ https://gist.github.com/dahlsailrunner/679e6dec5fd769f30bce90447ae80081
 ![image](https://user-images.githubusercontent.com/64368109/134390023-f7b39210-3aa5-4daa-9ee7-089418295df4.png)
 ![image](https://user-images.githubusercontent.com/64368109/134390143-ef4540fe-4a8a-4c42-a009-17f6a7aed980.png)
 
+![image](https://user-images.githubusercontent.com/64368109/134608422-1ce37099-95aa-4f8b-8446-8122eeee9ae5.png)
 
 
 ## Local Kubernetes Setup
