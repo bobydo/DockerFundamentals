@@ -74,3 +74,6 @@ https://gist.github.com/dahlsailrunner/1a47b0e38f6e3ba64d4d61835c73b7e2
 ## Excluding Health Checks from Serilog Request Logging
 Great blog post by Andrew Lock on this very topic:
 https://andrewlock.net/using-serilog-aspnetcore-in-asp-net-core-3-excluding-health-check-endpoints-from-serilog-request-logging/
+
+![image](https://user-images.githubusercontent.com/64368109/134835976-35df0d42-c490-45b1-a9e9-95b4315e40cd.png)
+
